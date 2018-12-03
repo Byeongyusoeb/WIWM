@@ -1,8 +1,6 @@
 # WIWM \[What I Want to Make\]
 
-This is sort 'of To Do List' 
-
-Will keep updating anytimg I find somthing I want to make in anytime
+This is sort of 'To Do List' 
 
 ### Contents
 
